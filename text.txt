@@ -1,0 +1,35 @@
+<div class="places-container">
+            <div class="places-header">
+                <h2>Discover the most engaging places</h2>
+                <p>Lets's see the world with us with you and your family.</p>
+            </div>
+
+            <div class="three-city">
+                <div class="city">
+                    <img src="/img/norway-img.jpg" alt="Norway city">
+                    <div class="city-info">
+                        <h3>Norway</h3>
+                        <p>Norway is a Scandinavian country encompassing mountains, glaciers and deep coastal fjords. </p>
+                        <a href="#" class="city-btn">Discover More &#9654;</a>
+                    </div>
+                </div>
+
+                <div class="city">
+                    <img src="img/london-img.jpg" alt="London City">
+                    <div class="city-info">
+                        <h3>London</h3>
+                        <p>London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. </p>
+                        <a href="#" class="city-btn">Discover More &#9654;</a>
+                    </div>
+                </div>
+
+                <div class="city">
+                    <img src="img/japan-img.jpg" alt="Japan City">
+                    <div class="city-info">
+                        <h3>Japan</h3>
+                        <p>Japan is famous for creating the worlds leading electronics and car brands, while remaining deeply connected to traditions. </p>
+                        <a href="#" class="city-btn">Discover More &#9654;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
